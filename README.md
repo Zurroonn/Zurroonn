@@ -1,12 +1,6 @@
-- 👋 Hi, I’m @Zurroonn
-- 👀 I’m interested in ... my girlfriend
-- 🌱 I’m currently learning ... DAM 2 
-- 💞️ I’m looking to collaborate on ... my bf jeronimo
-- 📫 How to reach me ... aazurron@gmail.com
-- 😄 Pronouns: ... Him.
-- ⚡ Fun fact: ... Im a perfect tall strong man
-
-<!---
-Zurroonn/Zurroonn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️  Studying DAM2 at IES Venancio Blanco.
++  ✔️ I’m currently learning Python and Swift.
+#  👨‍💻 I am uploading what was given in class and what I learned on my own.
+-  🚀 I use daily: .java, .py. 
+!  ✨ If you can imagine it, you can program it. 
+@@ 💻 Looking to improve as a programmer. @@
