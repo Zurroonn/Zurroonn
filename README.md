@@ -1,26 +1,41 @@
-# 💫 About Me:
-🔧 Currently at Mecalux, learning C# and Boo.  <br>🚀 Passionate about software development and problem-solving.  <br>💻 I use daily: .java, .py, .cs, .boo.  <br>📂 Uploading what I learn at work and on my own.  <br>🎯 Always looking to improve as a programmer.  <br>⚡ Fun fact: If you can imagine it, you can program it.  
+## 👋 Hey, I'm Zurron  
 
-## 🚀 Technologies I Use:
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+💻 **Software Developer** & 🧢 **Sneaker Reseller**  
+
+I love building software that solves real problems — and flipping some heat on the side 😎  
 
 ---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-@zurron-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/TU_ID)
----
-[![](https://visitcount.itsvg.in/api?id=Zurroonn&icon=0&color=0)](https://visitcount.itsvg.in)
+### 🧠 About Me
+- 💡 Passionate about clean code, automation, and learning new stacks  
+- 🛒 Hobby: sneaker resale & online business (private / stock management)  
+- ⚡ Motto: *“If you can imagine it, you can program it.”*
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 🧰 Technologies I Use
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/TU_ID)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/snkrs_forge)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zurron)
+
+---
+
+### 🧾 Fun Stuff
+🗂️ Working on a sneaker stock web app hosted on GitHub Pages  
+📈 Always learning — always improving  
+
+---
+
+> *“The best code and the cleanest kicks have one thing in common: attention to detail.”* 👟💻
